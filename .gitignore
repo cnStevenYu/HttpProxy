@@ -1,0 +1,5 @@
+.settings/
+bin/
+httpcomponents-client-4.3.5-bin/
+.classpath
+.project
